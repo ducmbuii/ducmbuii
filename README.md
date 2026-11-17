@@ -17,10 +17,9 @@ specific to the project at the end of its README file.
 
 With the extraordinary development and industry-wide impact of the AI field,
 I think it is practical to learn, research, and apply new technologies to
-accelerate development, product creation, and iteration, as well as to
-keep pace with current trends. As such, I cannot guarantee any future project 
-will be completely free of AI; on the contrary, there will be more
-experimental projects to come.
+accelerate development, product creation, and iteration. As such, I cannot 
+guarantee any future project will be completely free of AI; on the contrary, 
+there will be more experimental projects to come.
 
 __Về việc sử dụng <abbr title="mô hình ngôn ngữ lớn">LLM</abbr> và công cụ 
 trí tuệ nhân tạo (AI) tạo sinh trong các dự án cá nhân__
@@ -35,7 +34,7 @@ Với mỗi dự án của mình, mình trình bày việc sử dụng AI tạo 
 cuối tệp README.
 
 Sự phát triển thần tốc và tác động của ngành trí tuệ nhân tạo đã đặt ra nhu cầu
-cấp bách trong học hỏi, tìm tòi nghiên cứu và ứng dụng các công nghệ mới để 
-đẩy nhanh việc phát triển, tạo, cải tiến sản phẩm và bắt kịp xu thế. Vì vậy
-trong tương lai mình không đảm bảo bất kì dự án nào mà hoàn toàn không sử dụng
-AI, ngược lại sẽ còn có nhiều dự án thử nghiệm hơn nữa.
+cấp bách trong học hỏi, tìm tòi nghiên cứu và ứng dụng các công nghệ mới để
+đẩy nhanh việc phát triển, tạo và cải tiến sản phẩm. Vì vậy trong tương lai
+mình không đảm bảo bất kì dự án nào mà hoàn toàn không sử dụng AI, ngược lại
+sẽ còn có nhiều dự án thử nghiệm hơn nữa.
